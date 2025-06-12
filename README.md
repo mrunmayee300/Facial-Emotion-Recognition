@@ -1,6 +1,6 @@
 # Facial-Emotion-Recognition\
 
-# Facial Emotion Recognition using Python 😄😢😠😲
+# Facial Emotion Recognition using Python 
 
 This project is a deep learning-based facial emotion recognition system that detects and classifies human emotions from facial expressions in real-time using Python, OpenCV, and TensorFlow/Keras.
 
